@@ -1,0 +1,3 @@
+C:/fileFoldersDirectory/Projects/c++/c++Playlist/cmake-build-debug/CMakeFiles/c__Playlist.dir
+C:/fileFoldersDirectory/Projects/c++/c++Playlist/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/fileFoldersDirectory/Projects/c++/c++Playlist/cmake-build-debug/CMakeFiles/rebuild_cache.dir

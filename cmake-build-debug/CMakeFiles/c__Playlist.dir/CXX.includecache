@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/fileFoldersDirectory/Projects/c++/c++Playlist/multithreading/Multthreading.cpp
+iostream
+C:/fileFoldersDirectory/Projects/c++/c++Playlist/multithreading/iostream
+

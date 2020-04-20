@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="c__Playlist"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="C:/fileFoldersDirectory/Projects/c++/c++Playlist/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/TDM-GCC-64/bin/mingw32-make.exe -f &quot;C:/fileFoldersDirectory/Projects/c++/c++Playlist/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/TDM-GCC-64/bin/mingw32-make.exe -f &quot;C:/fileFoldersDirectory/Projects/c++/c++Playlist/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/TDM-GCC-64/bin/mingw32-make.exe -f &quot;C:/fileFoldersDirectory/Projects/c++/c++Playlist/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/TDM-GCC-64/bin/mingw32-make.exe -f &quot;C:/fileFoldersDirectory/Projects/c++/c++Playlist/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="c__Playlist">
+				<Option output="C:/fileFoldersDirectory/Projects/c++/c++Playlist/cmake-build-debug/c__Playlist.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/fileFoldersDirectory/Projects/c++/c++Playlist/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/TDM-GCC-64/bin/../lib/gcc/x86_64-w64-mingw32/9.2.0/include/c++"/>
+					<Add directory="C:/TDM-GCC-64/bin/../lib/gcc/x86_64-w64-mingw32/9.2.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/TDM-GCC-64/bin/../lib/gcc/x86_64-w64-mingw32/9.2.0/include/c++/backward"/>
+					<Add directory="C:/TDM-GCC-64/bin/../lib/gcc/x86_64-w64-mingw32/9.2.0/include"/>
+					<Add directory="C:/TDM-GCC-64/bin/../lib/gcc/x86_64-w64-mingw32/9.2.0/../../../../include"/>
+					<Add directory="C:/TDM-GCC-64/bin/../lib/gcc/x86_64-w64-mingw32/9.2.0/include-fixed"/>
+					<Add directory="C:/TDM-GCC-64/bin/../lib/gcc/x86_64-w64-mingw32/9.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/TDM-GCC-64/bin/mingw32-make.exe -f &quot;C:/fileFoldersDirectory/Projects/c++/c++Playlist/cmake-build-debug/Makefile&quot;  VERBOSE=1 c__Playlist"/>
+					<CompileFile command="C:/TDM-GCC-64/bin/mingw32-make.exe -f &quot;C:/fileFoldersDirectory/Projects/c++/c++Playlist/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/TDM-GCC-64/bin/mingw32-make.exe -f &quot;C:/fileFoldersDirectory/Projects/c++/c++Playlist/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/TDM-GCC-64/bin/mingw32-make.exe -f &quot;C:/fileFoldersDirectory/Projects/c++/c++Playlist/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="c__Playlist/fast">
+				<Option output="C:/fileFoldersDirectory/Projects/c++/c++Playlist/cmake-build-debug/c__Playlist.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/fileFoldersDirectory/Projects/c++/c++Playlist/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/TDM-GCC-64/bin/../lib/gcc/x86_64-w64-mingw32/9.2.0/include/c++"/>
+					<Add directory="C:/TDM-GCC-64/bin/../lib/gcc/x86_64-w64-mingw32/9.2.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/TDM-GCC-64/bin/../lib/gcc/x86_64-w64-mingw32/9.2.0/include/c++/backward"/>
+					<Add directory="C:/TDM-GCC-64/bin/../lib/gcc/x86_64-w64-mingw32/9.2.0/include"/>
+					<Add directory="C:/TDM-GCC-64/bin/../lib/gcc/x86_64-w64-mingw32/9.2.0/../../../../include"/>
+					<Add directory="C:/TDM-GCC-64/bin/../lib/gcc/x86_64-w64-mingw32/9.2.0/include-fixed"/>
+					<Add directory="C:/TDM-GCC-64/bin/../lib/gcc/x86_64-w64-mingw32/9.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/TDM-GCC-64/bin/mingw32-make.exe -f &quot;C:/fileFoldersDirectory/Projects/c++/c++Playlist/cmake-build-debug/Makefile&quot;  VERBOSE=1 c__Playlist/fast"/>
+					<CompileFile command="C:/TDM-GCC-64/bin/mingw32-make.exe -f &quot;C:/fileFoldersDirectory/Projects/c++/c++Playlist/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/TDM-GCC-64/bin/mingw32-make.exe -f &quot;C:/fileFoldersDirectory/Projects/c++/c++Playlist/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/TDM-GCC-64/bin/mingw32-make.exe -f &quot;C:/fileFoldersDirectory/Projects/c++/c++Playlist/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="C:/fileFoldersDirectory/Projects/c++/c++Playlist/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/TDM-GCC-64/bin/mingw32-make.exe -f &quot;C:/fileFoldersDirectory/Projects/c++/c++Playlist/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/TDM-GCC-64/bin/mingw32-make.exe -f &quot;C:/fileFoldersDirectory/Projects/c++/c++Playlist/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/TDM-GCC-64/bin/mingw32-make.exe -f &quot;C:/fileFoldersDirectory/Projects/c++/c++Playlist/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/TDM-GCC-64/bin/mingw32-make.exe -f &quot;C:/fileFoldersDirectory/Projects/c++/c++Playlist/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="C:/fileFoldersDirectory/Projects/c++/c++Playlist/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/TDM-GCC-64/bin/mingw32-make.exe -f &quot;C:/fileFoldersDirectory/Projects/c++/c++Playlist/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/TDM-GCC-64/bin/mingw32-make.exe -f &quot;C:/fileFoldersDirectory/Projects/c++/c++Playlist/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/TDM-GCC-64/bin/mingw32-make.exe -f &quot;C:/fileFoldersDirectory/Projects/c++/c++Playlist/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/TDM-GCC-64/bin/mingw32-make.exe -f &quot;C:/fileFoldersDirectory/Projects/c++/c++Playlist/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="C:/fileFoldersDirectory/Projects/c++/c++Playlist/ExecricePointer/ArrayOfPointers.cpp">
+			<Option target="c__Playlist"/>
+		</Unit>
+		<Unit filename="C:/fileFoldersDirectory/Projects/c++/c++Playlist/ExecricePointer/VirtualFunctions.cpp">
+			<Option target="c__Playlist"/>
+		</Unit>
+		<Unit filename="C:/fileFoldersDirectory/Projects/c++/c++Playlist/PointerArithimatic/Arithimatic1.cpp">
+			<Option target="c__Playlist"/>
+		</Unit>
+		<Unit filename="C:/fileFoldersDirectory/Projects/c++/c++Playlist/PointerArithimatic/PointerWithArray.cpp">
+			<Option target="c__Playlist"/>
+		</Unit>
+		<Unit filename="C:/fileFoldersDirectory/Projects/c++/c++Playlist/Pointers/Pointer2.cpp">
+			<Option target="c__Playlist"/>
+		</Unit>
+		<Unit filename="C:/fileFoldersDirectory/Projects/c++/c++Playlist/Pointers/Pointers.cpp">
+			<Option target="c__Playlist"/>
+		</Unit>
+		<Unit filename="C:/fileFoldersDirectory/Projects/c++/c++Playlist/multithreading/Multthreading.cpp">
+			<Option target="c__Playlist"/>
+		</Unit>
+		<Unit filename="C:/fileFoldersDirectory/Projects/c++/c++Playlist/signalHandling/Signals.cpp">
+			<Option target="c__Playlist"/>
+		</Unit>
+		<Unit filename="C:/fileFoldersDirectory/Projects/c++/c++Playlist/stringManipulations/BasicOperations.cpp">
+			<Option target="c__Playlist"/>
+		</Unit>
+		<Unit filename="C:/fileFoldersDirectory/Projects/c++/c++Playlist/stringManipulations/Classes.cpp">
+			<Option target="c__Playlist"/>
+		</Unit>
+		<Unit filename="C:/fileFoldersDirectory/Projects/c++/c++Playlist/stringManipulations/Functions.cpp">
+			<Option target="c__Playlist"/>
+		</Unit>
+		<Unit filename="C:/fileFoldersDirectory/Projects/c++/c++Playlist/workingWithPointers/FirstBasci.cpp">
+			<Option target="c__Playlist"/>
+		</Unit>
+		<Unit filename="C:/fileFoldersDirectory/Projects/c++/c++Playlist/workingWithPointers/LoneCoderPointers.cpp">
+			<Option target="c__Playlist"/>
+		</Unit>
+		<Unit filename="C:/fileFoldersDirectory/Projects/c++/c++Playlist/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
